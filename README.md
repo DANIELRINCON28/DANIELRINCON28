@@ -1,15 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/19326d24-a5a8-430c-a616-e41b01a6b0c2" width="100%" alt="Banner">
-</p>
 
 <h1 align="center">
   Hi there, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 <h3 align="center">A Systems Engineering student crafting intelligent solutions with AI and Data Science.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="profile-views" />
-</p>
 
 <p align="left">
   - 🚀 Currently exploring the frontiers of <b>Machine Learning, Data Engineering, and Cloud Technologies</b>.
@@ -21,16 +14,7 @@
   - 💬 Feel free to ask me about Python, SQL, or anything related to the Data/AI ecosystem!
 </p>
 
-<br>
 
-<div align="center">
-  <h2 align="center">📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Daniel's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Daniel's Top Languages" />
-</div>
-
-<br>
 
 <div align="center">
   <h2 align="center">🛠️ My Tech Stack</h2>
