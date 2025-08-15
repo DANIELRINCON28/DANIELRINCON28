@@ -2,7 +2,9 @@
 <h1 align="center">
   Hi there, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-<h3 align="center">A Systems Engineering student crafting intelligent solutions with AI and Data Science.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;AI+%26+Data+Science+Enthusiast;Machine+Learning+Explorer;Cloud+Computing+Adept" alt="Typing SVG" /></a>
+</div>
 
 <p align="left">
   - 🚀 Currently exploring the frontiers of <b>Machine Learning, Data Engineering, and Cloud Technologies</b>.
