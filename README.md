@@ -59,14 +59,15 @@
   </p>
 </div>
 
-<br>
-
 <div align="center">
-  <h2 align="center">🔥 My Contribution Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h2 align="center">📊 My GitHub Stats & Activity</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=DANIELRINCON28&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Daniel's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELRINCON28&layout=compact&theme=tokyonight&hide_border=true" alt="Daniel's Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANIELRINCON28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br>
 
 <div align="center">
   <h2 align="center">🤝 Connect with Me</h2>
