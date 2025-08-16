@@ -9,7 +9,7 @@
 <p align="left">
   - 🚀 Currently exploring the frontiers of <b>Machine Learning, Data Engineering, and Cloud Technologies</b>.
   <br>
-  - 🧠 My core interest lies in building robust models and scalable data pipelines.
+  - 🧠 My main interest is building robust models and scalable data pipelines.
   <br>
   - 💡 Actively seeking to collaborate on innovative AI-driven projects.
   <br>
