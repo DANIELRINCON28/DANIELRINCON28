@@ -75,10 +75,10 @@
     <a href="https://www.linkedin.com/in/daniel-alejandro-rinc%C3%B3n-valencia-b4a205248/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <a href="mailto:danalerin@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <a href="https://discord.com/users/528783627560026122" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
