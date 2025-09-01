@@ -72,7 +72,7 @@
 <div align="center">
   <h2 align="center">🤝 Connect with Me</h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/daniel-alejandro-rinc%C3%B3n-valencia-b4a205248/" target="_blank">
+    <a href="https://www.linkedin.com/in/danielrincon28/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:danalerin@gmail.com" target="_blank">
